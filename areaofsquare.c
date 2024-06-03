@@ -1,3 +1,6 @@
+//This code contains the code for area of square 
+//This includes the topic of variables,constatant,type declarations,arithematic operations
+
 #include<stdio.h>
 int main()
 {
