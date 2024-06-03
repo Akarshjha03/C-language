@@ -1,3 +1,6 @@
+//This code is for finding the average of numbers
+//Main focus is on arithematic operations
+
 #include<stdio.h>
 int main()
 {
