@@ -1,3 +1,6 @@
+//This is made for grading system 
+//Made using for loop 
+
 #include<stdio.h>
 int main()
 {
