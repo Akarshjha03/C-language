@@ -1,3 +1,6 @@
+//This code contains conditional statements
+//uppercase & lowercase characters
+
 #include<stdio.h>
 int main()
 {
