@@ -1,3 +1,5 @@
+//This code prints character based on for loop 
+
 #include<stdio.h>
 int main()
 {
