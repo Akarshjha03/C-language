@@ -1,3 +1,5 @@
+//this code consists of loop of printing 11 numbers continouesly 
+
 #include<stdio.h>
 int main()
 {
