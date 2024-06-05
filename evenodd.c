@@ -1,3 +1,5 @@
+//this code is used to check wheather the number entered by user is even or odd
+
 #include<stdio.h>
 int main()
 {  //even-->1
