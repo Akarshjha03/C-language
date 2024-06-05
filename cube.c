@@ -1,3 +1,6 @@
+//this code calculates the area of cube
+//itss also a part of arithematic operations
+
 #include<stdio.h>
 int main()
 {
