@@ -1,3 +1,6 @@
+//this code is also an example of arithematic operations 
+// performing divisiblity by input of user
+
 #include<stdio.h>
 int main()
 {
