@@ -1,3 +1,6 @@
+//This code is for distance conversion 
+//made from arithematic operations
+
 #include<stdio.h>
 int main()
 {
