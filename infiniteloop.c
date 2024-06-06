@@ -1,3 +1,6 @@
+//warning: You shouldn't execute this code just for knowledge purpose
+//infinite for loop 
+
 #include<stdio.h>
 int main()
 {
