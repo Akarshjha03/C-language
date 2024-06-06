@@ -1,3 +1,5 @@
+//this program is made of basic while loop
+
 #include<stdio.h>
 int main()
 {
