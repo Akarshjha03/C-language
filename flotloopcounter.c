@@ -1,3 +1,5 @@
+//this code contains for loop in real form
+
 #include<stdio.h>
 int main()
 {
