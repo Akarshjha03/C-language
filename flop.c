@@ -1,3 +1,5 @@
+//this is the initial code for loop 
+
 #include<stdio.h>
 int main()
 {
