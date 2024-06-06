@@ -1,3 +1,5 @@
+//this code is designed for grading system in school 
+
 #include<stdio.h>
 int main ()
 {
