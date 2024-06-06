@@ -1,3 +1,5 @@
+//this code contains the basic syntax of do while loop 
+
 #include<stdio.h>
 int main()
 {
