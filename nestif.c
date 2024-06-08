@@ -1,3 +1,5 @@
+//this code consists of nested if-else topic 
+
 #include<stdio.h>
 int main()
 {
