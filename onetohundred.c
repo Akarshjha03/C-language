@@ -1,3 +1,5 @@
+//this code is using for loop for printing numbers 1-100
+
 #include<stdio.h>
 int main()
 {
