@@ -1,3 +1,5 @@
+//this code uses all types of arithematic operations
+
 #include<stdio.h>
 int main()
 {
