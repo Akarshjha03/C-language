@@ -1,3 +1,6 @@
+//calculating page size 
+//tips:
+
 #include<stdio.h>
 int main()
 {
