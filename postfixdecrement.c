@@ -1,3 +1,5 @@
+//using different operators 
+
 #include<stdio.h>
 int main()
 {
